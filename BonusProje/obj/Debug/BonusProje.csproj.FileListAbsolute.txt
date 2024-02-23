@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\bin\Debug\BonusProje.exe.config
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\bin\Debug\BonusProje.exe
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\bin\Debug\BonusProje.pdb
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.Form1.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmOgrenciNotlar.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.Properties.Resources.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.exe
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.pdb
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmOgretmen.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmKulup.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmDersler.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmOgrenci.resources
+C:\Users\ASUS\Desktop\projeler\BonusProje\BonusProje\obj\Debug\BonusProje.FrmSinavNotlar.resources
