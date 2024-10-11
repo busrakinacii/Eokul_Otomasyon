@@ -1,2 +1,0 @@
-e okul tarzı bir otomasyon sistemidir.Dataset kullanılarak yapılmıştır.
-Murat yücedağ Hocamızın Eğitimiznden yaralanılmıştır.
